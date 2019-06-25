@@ -3,6 +3,7 @@ A complete guide to start with the basic data structure and go through some adva
 ## Basics Of Data Structures
 Choosing the correct data structure or algorithm to solve a particular problem affects a lot on the efficiency of the solution.
 ## Linked Lists
+![alt text](https://he-s3.s3.amazonaws.com/media/uploads/1b76d10.png)
    1. **Insertion of a node in singly linked list.**
       - at the beginning
       - at the end 
